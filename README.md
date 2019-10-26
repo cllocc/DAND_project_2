@@ -29,6 +29,6 @@
 <ol>
 <li>Open gdp_education_economy.ipynb (Jupyter notebook project location)</li>
 <li>Run gdp_education_economy.py (Python Script)</li>
-<li>Supporting PDF (Investigating Global GDP Education &amp; Ecomony.pdf)</li>
+<li>Supporting PDFs (Investigating Global GDP Education &amp; Ecomony.pdf)</li>
 </ol>
 <p>&nbsp;</p>
